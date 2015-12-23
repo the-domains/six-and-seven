@@ -1,7 +1,7 @@
 name: 'Six&Seven'
 favicon: null
-layout_spectrum: 0.6435974740888923
-typography_spectrum: 0.4356909354683012
+layout_spectrum: 0.62499
+typography_spectrum: 0.41644
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.43690813425928354
+  brandStrength: 0.6875
   lightness: 0.6848557277116925
   saturation: 0.2939636807423085
   rhythmicContrast: 0.7324826384428889
