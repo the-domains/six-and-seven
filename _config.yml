@@ -1,6 +1,6 @@
 name: 'Six&Seven'
 favicon: null
-layout_spectrum: 0.74397
+layout_spectrum: 0.76497
 typography_spectrum: 0.25371
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6875
-  lightness: 0.6848557277116925
-  saturation: 0.2939636807423085
-  rhythmicContrast: 0.7324826384428889
+    - '#ffffff'
+    - '#ffc800'
+    - '#fff7dc'
+    - '#ffd850'
+    - '#ffe37f'
+  brandStrength: 0.25
+  lightness: 0.625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
